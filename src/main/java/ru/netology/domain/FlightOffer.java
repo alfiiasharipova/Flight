@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
-public class FlightOffer implements Comparable<FlightOffer>{
+public class FlightOffer implements Comparable<FlightOffer> {
     private final int id;
     private int price;
     private String airportFrom;
